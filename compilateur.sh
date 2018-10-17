@@ -14,7 +14,8 @@
 	bash mysql.sh
 
 #4 phpmyadmin
-	bash phpmyadmin.sh	
+	bash phpmyadmin.sh
+	
 #5 musth
 
 #6 splashpic
@@ -32,16 +33,4 @@
 #10 firefox
 	bash firefox.sh
 
-#x MALDUINO
-	cd
-	cd Desktop/COMPILATEUR/0.0_malduino
 
-#x GIT
-	cd
-	cd Desktop/COMPILATEUR/0_git
-	bash git.sh
-
-#x xdotool
-	cd
-	cd Desktop/COMPILATEUR/1_xdotool
-	bash xdotool.sh
