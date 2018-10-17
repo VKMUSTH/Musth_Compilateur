@@ -16,8 +16,3 @@ sudo apt-get install musth
 - gimp
 - firefox
 
-- connexion internet
-- téléchargement du compilateur sur github (le compilateur sera supprimé après la procédure)
-- téléchargement de splashpic sur github
-- téléchargement des wallpaper sur github
-- xdotool
