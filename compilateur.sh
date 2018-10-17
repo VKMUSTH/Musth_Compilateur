@@ -1,54 +1,47 @@
 #Initialiser la séquence d'installation
-	sudo apt-get update
+	sudo apt update
+	sudo apt upgrade
+	sudo apt update
+#se positionner sur le bureau
+	cd Desktop/Musth_Compilateur
 
-#0 MALDUINO
+#1 apache2
+	bash apache2.sh
+#2 php
+	bash php.sh
+
+#3 mysql
+	bash mysql.sh
+
+#4 phpmyadmin
+	bash phpmyadmin.sh	
+#5 musth
+
+#6 splashpic
+	bash splashpic.sh
+	
+#7 gedit
+	bash gedit.sh
+
+#8 arduino
+	bash arduino.sh
+
+#9 gimp
+	bash gimp.sh
+
+#10 firefox
+	bash firefox.sh
+
+#x MALDUINO
 	cd
 	cd Desktop/COMPILATEUR/0.0_malduino
 
-#1 GIT
+#x GIT
 	cd
 	cd Desktop/COMPILATEUR/0_git
 	bash git.sh
 
-#2 xdotool
+#x xdotool
 	cd
 	cd Desktop/COMPILATEUR/1_xdotool
 	bash xdotool.sh
-#3 gedit
-	cd 2_gedit
-	bash gedit.sh
-
-#4 apache2
-	cd
-	cd Desktop/COMPILATEUR/4_apache2
-	bash apache2.sh
-
-#5_php
-	cd
-	cd Desktop/COMPILATEUR/5_php
-	bash php.sh
-
-#6_mysql
-	cd
-	cd Desktop/COMPILATEUR/6_mysql
-	bash mysql.sh
-
-#7_phpmyadmin
-	cd
-	cd Desktop/COMPILATEUR/7_phpmyadmin
-	bash phpmyadmin.sh
-
-#8 arduino
-	cd
-	cd Desktop/COMPILATEUR/8_arduino
-	bash arduino.sh
-
-#9 gimp
-	cd
-	cd Desktop/COMPILATEUR/9_gimp
-	bash gimp.sh
-
-#10 firefox
-	cd
-	cd Desktop/COMPILATEUR/10_firefox
-	bash firefox.sh
