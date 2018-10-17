@@ -1,8 +1,4 @@
 #Source: https://raspbian-france.fr/installer-serveur-web-raspberry-lamp/
-#Préparer l'installation
-sudo apt update
-sudo apt upgrade
-sudo apt update
 
 #Installation du serveur apache
 sudo apt install apache2
