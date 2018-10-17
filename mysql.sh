@@ -1,7 +1,7 @@
 #Installer MySQL
 sudo apt install mysql-server php-mysql
 #Vérifier que MySQL fonctionne correctement
-sudo mysql --user=root
+#sudo mysql --user=root
 
 #configurer mysql
 #DROP USER 'root'@'localhost';
