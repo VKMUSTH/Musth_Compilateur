@@ -8,4 +8,6 @@
 #5 WALLPAPER
 #6 SPLASHPIC
 	bash splashpic.sh
+#7 kicad
+	bash kicad.sh
 	
