@@ -15,4 +15,4 @@ sudo apt-get install musth
 - arduino
 - gimp
 - firefox
-
+- kicad
