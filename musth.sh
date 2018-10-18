@@ -1,5 +1,5 @@
 #todo
-#1 AJOUTER LES TABLES
+#1 AJOUTER BDD ADMIN À PHPMYADMIN
 #2 AJOUTER L'INDEX DE BASE AVEC ELEMENTS DE CONNEXION
 #3 SYNCHRONISER HEURE
 	bash synchrniser_heure.sh
@@ -10,4 +10,4 @@
 	bash splashpic.sh
 #7 kicad
 	bash kicad.sh
-	
+#8 Candle	
