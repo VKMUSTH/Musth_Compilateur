@@ -33,4 +33,6 @@
 #10 firefox
 	bash firefox.sh
 
+#11 kicad
+	bash kicad.sh
 
