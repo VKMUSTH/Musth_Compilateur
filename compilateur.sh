@@ -17,6 +17,7 @@
 	bash phpmyadmin.sh
 	
 #5 musth
+	bash importer_musth.sh
 
 #6 splashpic
 	bash splashpic.sh
