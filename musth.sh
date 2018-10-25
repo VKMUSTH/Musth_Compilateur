@@ -12,3 +12,5 @@
 #7 kicad
 	bash kicad.sh
 #8 Candle	
+#Xdotool
+	bash xdotool.sh
