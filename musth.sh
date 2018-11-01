@@ -9,8 +9,10 @@
 #5 WALLPAPER
 #6 SPLASHPIC
 	bash splashpic.sh
-#7 kicad
+#7 KICAD
 	bash kicad.sh
-#8 Candle	
-#Xdotool
+#8 CANDLE	
+#9 XDOTOOL
 	bash xdotool.sh
+#10 GPARTED
+	bash gparted.sh
