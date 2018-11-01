@@ -2,7 +2,7 @@
 
 Consignes d'installation
 
-- Téléchargez le fichier .zip et extraire l'archive.
+- Téléchargez le fichier .zip et extraire l'archive: https://github.com/VKMUSTH/Musth_Compilateur/archive/master.zip
 - ouvrir un terminal et saisir: 
   cd Downloads/Musth_Compilateur-master
   bash musth.sh
