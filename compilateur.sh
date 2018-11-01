@@ -10,15 +10,11 @@
 	bash mysql.sh
 #4 phpmyadmin
 	bash phpmyadmin.sh
-#5 musth
-	bash importer_musth.sh
-#6 splashpic
-	bash splashpic.sh
-#7 gedit
+#5 gedit
 	bash gedit.sh
-#8 arduino
+#6 arduino
 	bash arduino.sh
-#9 gimp
+#7 gimp
 	bash gimp.sh
-#10 firefox
+#8 firefox
 	bash firefox.sh
