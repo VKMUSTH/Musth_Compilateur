@@ -6,7 +6,7 @@ Une fois votre raspberry connecté à internet voici les consignes d'installatio
 
 wget --output-document=Musth.zip https://github.com/VKMUSTH/Musth_Compilateur/archive/master.zip
 
-#commande pour extraire les fichiers
+unzip Musth.zip
 
 cd Musth_Compilateur-master
 
