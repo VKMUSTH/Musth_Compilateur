@@ -18,3 +18,10 @@
 	bash gimp.sh
 #8 firefox
 	bash firefox.sh
+#9 kicad
+	bash kicad.sh
+#10 xdotool
+	bash xdotool.sh
+#11 gparted
+	bash gparted.sh
+#12 candle	
