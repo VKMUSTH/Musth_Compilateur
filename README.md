@@ -1,12 +1,16 @@
 # Musth_Compilateur
 
-Consignes d'installation
+Une fois votre raspberry connecté à internet voici les consignes d'installation.
+- Ouvrir un Terminal
+- Saisir les instructions suivantes
 
-- Téléchargez le fichier .zip et extraire l'archive: https://github.com/VKMUSTH/Musth_Compilateur/archive/master.zip
-- ouvrir un terminal et saisir: 
-  cd Downloads/Musth_Compilateur-master
-  bash musth.sh
-- Suivez les instructions
+wget --output-document=Musth.zip https://github.com/VKMUSTH/Musth_Compilateur/archive/master.zip
+
+#commande pour extraire les fichiers
+
+cd Musth_Compilateur-master
+
+bash musth.sh
 
 - Vous êtes prêts à utiliser Musth
 
