@@ -20,4 +20,6 @@
 	bash xdotool.sh
 #11 gparted
 	bash gparted.sh
-#12 candle	
+#12 vlc	
+	bash vlc.sh
+#13 candle	
