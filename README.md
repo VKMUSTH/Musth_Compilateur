@@ -16,3 +16,4 @@ sudo apt-get install musth
 - gimp
 - firefox
 - kicad
+- gparted
