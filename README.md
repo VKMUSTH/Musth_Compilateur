@@ -18,8 +18,9 @@ bash musth.sh
 #Les éléments suivants seront modifiés ou installés
 
 INITIALISATION => musth.sh
-  update
-  upgrade   o/n   188 Mo
+
+ - update
+ - upgrade   o/n   188 Mo
 
 LOGICIELS => logiciels.sh
 - 1 apache2       OK    o/n   6263 Ko   Connexion à 127.0.0.1:80... échec : Connexion refusée.
