@@ -1,10 +1,14 @@
 # Musth_Compilateur
 
-- Téléchargez le fichier .zip et faites l'extraction.
-- Placez les fichiers extraits dans le repertoire home.
-- Dans un terminal tapez bash musth.sh pour lancer les installations.
+Consignes d'installation
 
-Vous êtes prêts à utiliser Musth
+- Téléchargez le fichier .zip et extraire l'archive.
+- ouvrir un terminal et saisir: 
+  cd Downloads/Musth_Compilateur-master
+  bash musth.sh
+- Suivez les instructions
+
+- Vous êtes prêts à utiliser Musth
 
 
 #Les éléments suivants seront modifiés ou installés
