@@ -8,15 +8,20 @@ Vous êtes prêts à utiliser Musth
 
 
 #Les éléments suivants seront modifiés ou installés
-
+LOGICIELS => logiciels.sh
 - apache2
 - php
 - mysql
 - phpmyadmin
-- musth
 - gedit
 - arduino
 - gimp
 - firefox
 - kicad
 - gparted
+
+CONFIGURATION => configuration.sh
+
+
+DONNEES
+- musth
