@@ -22,7 +22,7 @@ LOGICIELS => logiciels.sh
 - 10 gparted      OK
 - 11 xdotool      OK
 - 12 candle       NOK
-
+- 13 vlc          OK
 CONFIGURATION => configuration.sh
 - 1 heure         OK
 - 2 audio         OK
