@@ -1,3 +1,4 @@
+#https://www.pobot.org/Activer-le-son-sur-Raspberry-Pi.html
 # audio sur le jack
 sudo amixer cset numid=3 1
 
