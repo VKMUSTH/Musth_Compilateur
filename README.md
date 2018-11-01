@@ -1,7 +1,6 @@
 # Musth_Compilateur
 
-Commande à saisir pour l'installation
-sudo apt-get install musth
+Téléchargez le fichier, faites l'extraction, placez les fichiers extraits dans home, utilisez la commande bash pour lancer l'installation
 
 
 #Les éléments suivants seront modifiés ou installés
