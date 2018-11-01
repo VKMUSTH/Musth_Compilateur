@@ -1,6 +1,8 @@
 # Musth_Compilateur
 
-Téléchargez le fichier, faites l'extraction, placez les fichiers extraits dans home, utilisez la commande bash pour lancer l'installation
+Téléchargez le fichier .zip, faites l'extraction, placez les fichiers extraits dans home, utilisez la commande bash compilateur.sh pour lancer les installations.
+
+Vous êtes prêts à utiliser Musth
 
 
 #Les éléments suivants seront modifiés ou installés
