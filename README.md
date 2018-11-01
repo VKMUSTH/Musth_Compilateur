@@ -2,7 +2,7 @@
 
 - Téléchargez le fichier .zip et faites l'extraction.
 - Placez les fichiers extraits dans le repertoire home.
-- Dans un terminal tapez bash compilateur.sh pour lancer les installations.
+- Dans un terminal tapez bash musth.sh pour lancer les installations.
 
 Vous êtes prêts à utiliser Musth
 
@@ -26,5 +26,5 @@ LOGICIELS => logiciels.sh
 CONFIGURATION => configuration.sh
 - 1
 
-DONNEES
+DONNEES => data.sh
 - musth
