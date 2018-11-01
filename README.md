@@ -24,7 +24,11 @@ LOGICIELS => logiciels.sh
 - 12 candle       NOK
 
 CONFIGURATION => configuration.sh
-- 1
+- 1 heure         OK
+- 2 audio         OK
+- 3 wallpaper     NOK
+- 4 splashpic     OK
 
 DONNEES => data.sh
-- musth
+- code php        OK
+- bdd sql         NOK
