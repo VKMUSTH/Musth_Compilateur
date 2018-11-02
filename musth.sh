@@ -5,4 +5,4 @@
 #Séquence d'installation  
 bash logiciels.sh
 bash configuration.sh
-#bash data.sh
+bash data.sh
