@@ -3,7 +3,7 @@
 #2 php
 	bash php.sh
 #3 mysql
-	bash mysql.sh
+	#bash mysql.sh
 #4 phpmyadmin
 	bash phpmyadmin.sh
 #5 gedit
