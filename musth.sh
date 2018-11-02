@@ -3,6 +3,6 @@
 	sudo apt upgrade
 	sudo apt update
 #Séquence d'installation  
-#bash logiciels.sh
-#bash configuration.sh
+bash logiciels.sh
+bash configuration.sh
 #bash data.sh
