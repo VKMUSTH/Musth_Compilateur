@@ -36,7 +36,7 @@ LOGICIELS => logiciels.sh
 - 11 xdotool      OK    o/n   174 Ko
 - 12 candle       NOK
 - 13 vlc          OK    o/n   75,3 Mo   need update/upgrade
-
+- 14 cups         ecrire le script
 CONFIGURATION => configuration.sh
 - 1 heure         NOK à supprimer
 - 2 audio         OK
