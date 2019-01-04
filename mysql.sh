@@ -1,6 +1,7 @@
 #Installer MySQL
 sudo apt install mysql-server php-mysql
 #Vérifier que MySQL fonctionne correctement
+#SE CONNECTER À MYSQL DANS LE TERMINAL : ERREUR 1045 using password no
 #sudo mysql --user=root
 
 #configurer mysql
@@ -12,3 +13,4 @@ sudo apt install mysql-server php-mysql
 #pour faire fonctionner l'estension mysqli
 #source: https://www.crybit.com/how-to-enable-mysqli-extension-on-web-server/
 php -m | grep mysql
+#sudo dpkg-reconfigure mysql-server
