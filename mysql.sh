@@ -14,3 +14,9 @@ sudo apt install mysql-server php-mysql
 #source: https://www.crybit.com/how-to-enable-mysqli-extension-on-web-server/
 php -m | grep mysql
 #sudo dpkg-reconfigure mysql-server
+
+
+# suppression de /var/lib/mysql/*
+# suppression de /etc/mysql/*
+# suppression du profil mysql de AppArmor (/etc/apparmor.d/usr.sbin.mysqld)
+# réinstallation de mysql-common, mysql-server et phpmyadmin
