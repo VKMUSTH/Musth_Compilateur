@@ -20,3 +20,6 @@ php -m | grep mysql
 # suppression de /etc/mysql/*
 # suppression du profil mysql de AppArmor (/etc/apparmor.d/usr.sbin.mysqld)
 # réinstallation de mysql-common, mysql-server et phpmyadmin
+rm -rf /var/lib/mysql
+rm -rf /etc/mysql
+rm  /etc/apparmor.d/usr.sbin.mysqld
