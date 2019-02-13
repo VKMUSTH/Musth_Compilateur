@@ -12,4 +12,4 @@ cd /usr/share/rpd-wallpaper
 #get --output-document=splash.png https://user-images.githubusercontent.com/22053566/52698711-6349bf00-2f74-11e9-9f56-eb273248737f.png
 
 #Refermer les permissions
-sudo chmod -R 644 /usr/share/rpd-wallpaper
+sudo chmod -R 755 /usr/share/rpd-wallpaper
