@@ -18,3 +18,9 @@ mkdir github
 cd github
 git clone https://github.com/zapmaker/GrblHoming
 curl http://www.shapeoko.com/wiki/images/6/6a/Coaster.txt > Coaster.nc
+cd GrblHoming
+qmake GcodeSenderGUIthreads.pro
+sudo apt-get install qt4-qmake libqt4-dev
+qmake GcodeSenderGUIthreads.pro
+make
+./GrblController
