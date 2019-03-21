@@ -1,3 +1,8 @@
+se placer ans le ossier parent
+
+suo chmod -R chemin
+
+
 tout le monde
 proprietaire seulement
 personne
@@ -8,3 +13,8 @@ tout le monde
 proprietaire seulement
 tout le moonde
 = 755
+
+tout le monde
+tout le monde
+tout le monde
+=777
