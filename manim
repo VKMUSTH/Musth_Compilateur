@@ -1,0 +1,44 @@
+#Installer manim
+#source : https://www.youtube.com/watch?v=z_WJaHYH66M
+
+#Installation de Latex                                            OK
+sudo apt-get install texlive-full                                 
+
+#Installer pythn 3.7                                              OK
+sudo apt-get install python3.7-minimal
+#tester si python pérationnel
+python 3.7
+
+#installer curl                                                   OK
+sudo apt-get install curl
+
+mkdir manim                                                       OK
+cd manim                                                          OK
+#Installer pip
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+python3.7 get-pip.py                                              OK
+
+
+#Installer ffmpeg                                                 OK
+sudo apt-get install ffmpeg
+
+#Installer Sox                                                    OK
+sudo apt-get install sox
+
+#Installer cairo                                                  OK
+sudo apt-get install libcairo2-dev libjpeg-dev libgif-dev python3-dev libffi-dev
+
+#Installer les dépendances de cairo                               OK
+python3.7 -m pip install pyreadline
+python3.7 -m pip install pydub
+
+#Télcharger manim
+https://github.com/3b1b/manim/tree/3b088b12843b7a4459fe71eba96b70edafb7aa78
+
+#Installer les Plugins python                                     OK
+python3.7 -m pip install -r requirements.txt
+
+#Test                                                             OK
+python3.7 -m manim example_scenes.py SquareToCircle -pl
+python3.7 -m manim example_scenes.py WriteStuff -pl
