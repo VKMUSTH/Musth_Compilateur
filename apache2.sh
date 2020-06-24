@@ -1,6 +1,6 @@
 #Source: https://raspbian-france.fr/installer-serveur-web-raspberry-lamp/
 
-#Installation du serveur apache
+#Installation du serveur apache: en user
 sudo apt install apache2
 
 #Donner des droits au dossier d’apache qui vous permettra de facilement administrer les site
