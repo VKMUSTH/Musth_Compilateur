@@ -1,0 +1,5 @@
+assembler deux videos mp4
+
+ffmpeg -y -i "A.mp4" -c copy -bsf:v h264_mp4toannexb -f mpegts "A.ts"
+ffmpeg -y -i "B.mp4" -c copy -bsf:v h264_mp4toannexb -f mpegts "B.ts"
+ffmpeg -y -i concat:"A.ts|B.ts" -absf aac_adtstoasc -c copy -f mov "AB.mp4"
